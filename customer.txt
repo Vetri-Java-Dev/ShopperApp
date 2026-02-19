@@ -1,4 +1,3 @@
-Customer 1 - Vetri
-Customer 2 - Sonu
-Customer 3 - Subathra
+Customer 1 - Sonu
+Customer 2 - Subathra
 
