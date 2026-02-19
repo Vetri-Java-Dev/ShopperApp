@@ -1,0 +1,6 @@
+Price Details
+
+Product   price
+Milk      32
+Coconut   30
+Banana   
